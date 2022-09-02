@@ -27,10 +27,10 @@ body {
 
 .b{
   flex-grow: 2;
-  flex: 1 1 100%;
-  height:
+  flex: 1 1 200%;
+  
 }
-
+/* put c and d in its own container, leave e in its own */
 .c, .d, .e {
   flex-grow: 1;
 }
